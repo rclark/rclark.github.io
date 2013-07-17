@@ -1,6 +1,7 @@
 ---
 published: true
 layout: default
+title: Prose New File
 ---
 
 ## A New Post
