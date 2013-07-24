@@ -4,9 +4,10 @@ layout: default
 title: Prose New File
 ---
 
-## A New Post
+## My Heading
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). 
-Use the toolbar above, or click the **?** button for formatting help.
+[Some link](http://google.com)
+- one thing
+- another
+- another thing
 
-So I make some changes
